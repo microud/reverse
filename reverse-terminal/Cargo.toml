@@ -12,5 +12,4 @@ portable-pty = { version = "0.7.0", features = ["ssh", "ssh2"] }
 serde_json = "1.0.0"
 futures = "0.3.0"
 tracing = "0.1.37"
-reverse-storage = { path = "../reverse-storage" }
 anyhow = "1.0.66"
